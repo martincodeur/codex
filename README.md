@@ -14,3 +14,14 @@ python digits_model.py
 
 Make sure `scikit-learn` is installed in your environment.
 
+## Digits CNN
+
+`cnn_model.py` trains a small convolutional neural network on the digits dataset using TensorFlow.
+
+Run the script with:
+
+```bash
+python cnn_model.py
+```
+
+TensorFlow and scikit-learn are required.
